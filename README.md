@@ -4,5 +4,15 @@ This package contains the Python implementation of "Semi-supervised Transfer Lea
 
 
 
-## Prepare Training Data
 
+
+## Usage
+
+#### Prepare Training Data
+Run /data/generate.m to generate HDF files as training data.
+
+#### Train
+python train.py
+
+#### Test
+python test.py
