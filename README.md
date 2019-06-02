@@ -16,7 +16,7 @@ Run /data/generate.m to generate HDF files as training data.
 python train.py
 
 #### Test
-python test.py
+python testing.py
 
 ## Cite
 Please cite this paper if you use the code:
