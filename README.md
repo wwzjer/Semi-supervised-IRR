@@ -20,4 +20,5 @@ python test.py
 
 ## Cite
 Please cite this paper if you use the code:
-  Wei Wei, Deyu Meng, Qian Zhao, Zongben Xu and Ying Wu, "Semi-supervised Transfer Learning for Image Rain Removal", in IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR'19), Long Beach, CA, June, 2019.
+
+    Wei Wei, Deyu Meng, Qian Zhao, Zongben Xu and Ying Wu, "Semi-supervised Transfer Learning for Image Rain Removal", in IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR'19), Long Beach, CA, June, 2019.
