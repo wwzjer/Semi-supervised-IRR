@@ -13,7 +13,7 @@ Download synthesized data from [here](https://github.com/jinnovation/rainy-image
 Run /data/generate.m to generate HDF files as training data.
 
 #### Train
-python train.py
+python training.py
 
 #### Test
 python testing.py
