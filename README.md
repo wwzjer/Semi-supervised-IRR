@@ -25,3 +25,7 @@ Please cite this paper if you use the code:
 
 ## Acknowledge
 We use [Deep Detail Network](https://xueyangfu.github.io/projects/cvpr2017.html) as our baseline. Thanks for sharing the code!
+
+## Note
+1. You are welcomed to add more real data.
+2. You are welcomed to try more recent derain network as baseline.
