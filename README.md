@@ -9,7 +9,7 @@ This package contains the Python implementation of "Semi-supervised Transfer Lea
 ## Usage
 
 #### Prepare Training Data
-Download synthesized data from [here](https://pan.baidu.com/s/1Hvm9ctniC7PMQdKrI_lf3Q), as supervised training data. Put input images in './data/rainy_image_dataset/input' and ground truth images in './data/rainy_image_dataset/label'.
+Download synthesized data from [here](https://github.com/jinnovation/rainy-image-dataset), as supervised training data. Put input images in './data/rainy_image_dataset/input' and ground truth images in './data/rainy_image_dataset/label'.
 Run /data/generate.m to generate HDF files as training data.
 
 #### Train
