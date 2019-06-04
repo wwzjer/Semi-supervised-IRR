@@ -21,8 +21,13 @@ python testing.py
 ## Cite
 Please cite this paper if you use the code:
 
-    Wei Wei, Deyu Meng, Qian Zhao, Zongben Xu and Ying Wu, "Semi-supervised Transfer Learning for Image Rain Removal", in IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR'19), Long Beach, CA, June, 2019.
-
+    @InProceedings{Wei_2019_CVPR,
+    author = {Wei, Wei and Meng, Deyu and Zhao, Qian and Xu, Zongben and Wu, Ying},
+    title = {Semi-Supervised Transfer Learning for Image Rain Removal},
+    booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {June},
+    year = {2019}
+    }
 ## Acknowledge
 We use [Deep Detail Network](https://xueyangfu.github.io/projects/cvpr2017.html) as our baseline. Thanks for sharing the code!
 
