@@ -28,6 +28,17 @@ Please cite this paper if you use the code:
     month = {June},
     year = {2019}
     }
+    
+The prior work using MoG for video deraining can be found here:
+
+    @inproceedings{wei2017should,
+      title={Should we encode rain streaks in video as deterministic or stochastic?},
+      author={Wei, Wei and Yi, Lixuan and Xie, Qi and Zhao, Qian and Meng, Deyu and Xu, Zongben},
+      booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+      pages={2516--2525},
+      year={2017}
+    }
+
 ## Acknowledge
 We use [Deep Detail Network](https://xueyangfu.github.io/projects/cvpr2017.html) as our baseline. Thanks for sharing the code!
 
