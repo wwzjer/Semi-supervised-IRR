@@ -24,18 +24,16 @@ Please cite this paper if you use the code:
     @InProceedings{Wei_2019_CVPR,
     author = {Wei, Wei and Meng, Deyu and Zhao, Qian and Xu, Zongben and Wu, Ying},
     title = {Semi-Supervised Transfer Learning for Image Rain Removal},
-    booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month = {June},
+    booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition},
     year = {2019}
     }
     
 The prior work using MoG for video deraining can be found here:
 
-    @inproceedings{wei2017should,
+    @InProceedings{wei2017should,
       title={Should we encode rain streaks in video as deterministic or stochastic?},
       author={Wei, Wei and Yi, Lixuan and Xie, Qi and Zhao, Qian and Meng, Deyu and Xu, Zongben},
       booktitle={Proceedings of the IEEE International Conference on Computer Vision},
-      pages={2516--2525},
       year={2017}
     }
 
